@@ -1,0 +1,9 @@
+body{
+    background-image: url("fondo1si.png");
+    background-size: cover;
+}
+.logo{
+    width: 140px;
+    height: 60px;
+    padding-left: 15px;
+}
