@@ -50,27 +50,43 @@ main{
 }
 
 .main_izq{
-    height: 100%;
+    height: 90%;
     width: 50%;
     display: flex;
     margin-left: 180px;
-    justify-content: center;
     align-items: center;
     justify-content: flex-end;
+    flex-direction: column;
+
 }
 
 .main_izq img{
     width: 100%;
     height: 30%;
     display: flex;
-    margin-bottom: 300px;
+    margin-bottom: 0px;
+
 }
 
 .main_der{
     height: 100%;
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .main_der img{
     height: 100%;
+    display: flex;
+    margin-right: 150px;
+    margin-bottom: 120px;
+}
+
+.text1{
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    font-weight: bold;
+    font-family: monst;
 }
