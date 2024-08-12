@@ -75,3 +75,10 @@ main{
     padding-left: 100px;
     color: white;
 }
+.lp{
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700 ;
+    padding-left: 30px;
+    padding-top: 30px;
+}
