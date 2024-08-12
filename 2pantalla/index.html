@@ -18,11 +18,20 @@
 <body>
     
     <main>
-    <div>
+    <div class="maini">
+         <form action="/login" method="post">
+            <label for="username">Nombre de Usuario</label>
+            <input type="text" id="username" name="username" required>
 
+            <label for="password">Contraseña</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Iniciar Sesión</button>
+        </form>
     </div>
-    <div>
-
+    <div class="maind">
+        <img src="logog.png" class="logog">
+        <p class="text">SignAi offers an accurate translation from sign language to english text</p>
     </div>
     </main>
     

@@ -42,10 +42,36 @@ header {
 }
 main{
     display: flex;
-    width: 50vw;
+    width: 65vw;
     height: 60vh;
-    background-color: black;
+    background-color:white;
     justify-content: center;
-    margin-left: 380px;
-    margin-top: 90px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.maind{
+    background-color:rgb(255, 153, 0);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 30px;
+    
+}
+.logog{
+    width: 483px;
+    height: 174px;
+    padding-left: 90px;
+    padding-top: 70px;
+    margin-bottom: px;
+    padding-right: 80px;
+}
+.logog img{
+  
+}
+.maind{
+    padding:0 ;
+}
+.text{
+    width: 80%;
+    height: 80%;
+    padding-left: 100px;
+    color: white;
 }
