@@ -156,7 +156,7 @@ main{
     left: 0;
     background-color: white;
     width: 100vw;
-    height: 100px;
+    height: 160px;
     margin: 10px;
     justify-content: space-between;
     z-index: -10;
@@ -176,5 +176,8 @@ main{
     font-weight: bold;
 }
 .dev{
+    padding-right: 10px;
+}
+#1{
     padding-right: 10px;
 }
