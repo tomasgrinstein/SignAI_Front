@@ -146,7 +146,7 @@ main{
 .menuu li{
     display: inline-block;
 }
-.menuu li:hover #dropdown{
+.menuu #dropdown.mostrar{
     display: flex;
 }
 .menuu #dropdown{
