@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+    height: 100vw;
+}
+.maind{
+    width: 50%;
+    height: 100%;
+}
+.maini{
+    width: 50%;
+    height: 100%;
+}
+.img{
+    width: 10px;
+    height: 10px;
+}
